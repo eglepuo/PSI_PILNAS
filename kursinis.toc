@@ -1,0 +1,185 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {lithuanian}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ANOTACIJA}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ĮVADAS}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.}KURIAMO VERSLO PROCESO ANALIZĖ}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.}VERSLO PROCESO APRAŠAS}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.}IŠORINĖ VERSLO PROCESO ANALIZĖ}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.}Įeigos}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.}Išeigos}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.}Įvaizdis}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.4.}Reguliavimas}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.5.}Grėsmės}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.6.}Neišnaudotos galimybės}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.}VIDINĖ VERSLO PROCESO ANALIZĖ}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.}Sąvokos}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.}Dalykinės srities statinė struktūra}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.3.}Užduotys}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.4.}Užduočių vykdymo scenarijai}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.5.}Dalykinės srities dinaminė struktūra}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4.}ĮGYVENDINAMUMO IR NAUDOS ANALIZĖ}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.1.}Operacinis įgyvendinamumas}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.2.}Techninis įgyvendinamumas}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3.}Ekonominis įgyvendinamumas}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.4.}Juridinis įgyvendinamumas}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.5.}SISTEMOS NAUDOJIMO SCENARIJUS}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.5.1.}Scenarijus}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.5.2.}Sistemos teikiama nauda}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.5.3.}Esama būklė}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.5.4.}Priemonės scenarijui įgyvendinti}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.}REIKALAVIMŲ SPECIFIKAVIMAS}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.}FUNKCINIAI REIKALAVIMAI}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.1.}Internetinės svetainės langai}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2.}Prisijungimas}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.3.}Atsijungimas}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.4.}Paskyros valdymas}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.5.}Naujienos}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.6.}Renginiai}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.7.}D.U.K.}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.8.}Dėstytojų sąrašas}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.9.}Dėstytojo puslapis}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.10.}Žinutės}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.11.}Konspektai}{33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.}NEFUNKCINIAI REIKALAVIMAI}{34}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.}Vidinių interfeisų reikalavimai}{34}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2.}Veikimo reikalavimai}{35}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3.}Diegimo reikalavimai}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.4.}Aptarnavimo ir priežiūros reikalavimai}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.5.}Tiražuojamumo reikalavimai}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.6.}Apsaugos reikalavimai}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.7.}Juridiniai reikalavimai}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.}VARTOTOJO SĄSAJOS REIKALAVIMAI}{38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1.}Dalykinės srities metaforos reikalavimai}{38}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2.}Užduočių formulavimo kalbos reikalavimai}{40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.3.}Užduočių formulavimo protokolo reikalavimai}{40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.4.}Pranešimo formulavimo reikalavimai}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.5.}Interfeiso darnos ir standartizavimo reikalavimai}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.6.}Interfeiso individualizavimo reikalavimai}{43}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.}KURIAMOS SISTEMOS ARCHITEKTŪRA}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.}LOGINIS PJŪVIS}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1.}Esybių klasių diagrama (nulinis lygis)}{44}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.2.}Klasių diagrama (pirmas lygis)}{45}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.}UŽDUOČIŲ PJŪVIS}{46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1.}Sistemoje vykdomos užduotys}{46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2.}Užduočių vykdymo scenarijai}{46}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3.}Užduoties "Pridėti naujieną" scenarijus}{47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.4.}Užduoties "Ištrinti naujieną" scenarijus}{47}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.}Užduoties "Redaguoti naujieną" scenarijus}{48}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.6.}Užduoties "Peržiūrėti naujienas" scenarijus}{49}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.7.}Užduoties "Pridėti renginį" scenarijus}{49}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.8.}Užduoties "Ištrinti renginį" scenarijus}{50}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.9.}Užduoties "Redaguoti renginį" scenarijus}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.10.}Užduoties "Peržiūrėti renginius" scenarijus}{51}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.11.}Užduoties "Pridėti D.U.K." scenarijus}{52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.12.}Užduoties "Peržiūrėti D.U.K." scenarijus}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.13.}Užduoties "Redaguoti pasirinktą klausimą" scenarijus}{53}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.14.}Užduoties "Peržiūrėti pasirinkto dėstytojo teikiamą informaciją" scenarijus}{54}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.15.}Užduoties "Peržiūrėti pasirinktą žinutę" scenarijus}{55}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.16.}Užduoties "Siųsti žinutę" scenarijus}{56}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.17.}Užduoties "Redaguoti asmeninį dėstytojo puslapį" scenarijus}{57}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.18.}Užduoties "Įkelti konspektą" scenarijus}{58}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.19.}Užduoties "Peržiūrėti konspektus" scenarijus}{59}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.}KŪRIMO PJŪVIS}{60}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1.}Komponentų diagramos nulinis lygmuo}{60}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2.}Komponentų diagramos pirmasis lygmuo}{61}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3.}Komponentų diagramos antrasis lygmuo}{62}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4.}FIZINIS PJŪVIS}{63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.1.}Dislokavimo diagrama nr. 1 (komponentų ir artefaktų ryšių diagrama)}{63}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.2.}Dislokavimo diagrama nr. 2 (mazgų ir artefaktų ryšių diagrama)}{64}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.3.}Dislokavimo diagrama nr. 3 (mazgų ir artefaktų egzempliorių diagrama)}{65}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5.}PROCESO PJŪVIS}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.5.1.}Proceso sekų diagramos}{66}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.5.2.}Veiklos diagramos}{67}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REZULTATAI}{70}
