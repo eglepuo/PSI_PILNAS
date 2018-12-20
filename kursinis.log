@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.10.1)  20 DEC 2018 16:57
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.10.1)  20 DEC 2018 17:16
 entering extended mode
 **./kursinis.tex
 (kursinis.tex
@@ -1621,19 +1621,7 @@ Overfull \hbox (6.79216pt too wide) in paragraph at lines 505--540
 
 File: img/login.jpg Graphic file (type bmp)
 <img/login.jpg>
-[25]
-! Undefined control sequence.
-<recently read> \hlines 
-                        
-l.559 ^^I^^I\hlines
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[26]
+[25] [26]
 File: img/deleteNew.png Graphic file (type bmp)
 <img/deleteNew.png>
  [27]
@@ -2566,10 +2554,10 @@ Package logreq Info: Writing requests to 'kursinis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25362 strings out of 427835
- 482418 string characters out of 3152454
+ 25361 strings out of 427835
+ 482412 string characters out of 3152454
  1001369 words of memory out of 3000000
- 28979 multiletter control sequences out of 15000+200000
+ 28978 multiletter control sequences out of 15000+200000
  543198 words of font info for 88 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  67i,12n,96p,10542b,3426s stack positions out of 5000i,500n,10000p,200000b,50000s
