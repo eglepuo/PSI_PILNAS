@@ -26,160 +26,160 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3.}VIDINĖ VERSLO PROCESO ANALIZĖ}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.1.}Sąvokos}{10}
+\contentsline {subsubsection}{\numberline {1.3.1.}Dalykinės srities statinė struktūra}{10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.2.}Dalykinės srities statinė struktūra}{10}
+\contentsline {subsubsection}{\numberline {1.3.2.}Užduotys}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.3.}Užduotys}{12}
+\contentsline {subsubsection}{\numberline {1.3.3.}Užduočių vykdymo scenarijai}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.4.}Užduočių vykdymo scenarijai}{13}
+\contentsline {subsubsection}{\numberline {1.3.4.}Dalykinės srities dinaminė struktūra}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.3.5.}Dalykinės srities dinaminė struktūra}{14}
+\contentsline {subsection}{\numberline {1.4.}ĮGYVENDINAMUMO IR NAUDOS ANALIZĖ}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4.}ĮGYVENDINAMUMO IR NAUDOS ANALIZĖ}{17}
+\contentsline {subsubsection}{\numberline {1.4.1.}Operacinis įgyvendinamumas}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.1.}Operacinis įgyvendinamumas}{17}
+\contentsline {subsubsection}{\numberline {1.4.2.}Techninis įgyvendinamumas}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.2.}Techninis įgyvendinamumas}{17}
+\contentsline {subsubsection}{\numberline {1.4.3.}Ekonominis įgyvendinamumas}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.3.}Ekonominis įgyvendinamumas}{17}
+\contentsline {subsubsection}{\numberline {1.4.4.}Juridinis įgyvendinamumas}{17}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.4.4.}Juridinis įgyvendinamumas}{18}
+\contentsline {subsection}{\numberline {1.5.}SISTEMOS NAUDOJIMO SCENARIJUS}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5.}SISTEMOS NAUDOJIMO SCENARIJUS}{19}
+\contentsline {subsubsection}{\numberline {1.5.1.}Scenarijus}{18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.5.1.}Scenarijus}{19}
+\contentsline {subsubsection}{\numberline {1.5.2.}Sistemos teikiama nauda}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.5.2.}Sistemos teikiama nauda}{23}
+\contentsline {subsubsection}{\numberline {1.5.3.}Esama būklė}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.5.3.}Esama būklė}{23}
+\contentsline {subsubsection}{\numberline {1.5.4.}Priemonės scenarijui įgyvendinti}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.5.4.}Priemonės scenarijui įgyvendinti}{24}
+\contentsline {section}{\numberline {2.}REIKALAVIMŲ SPECIFIKAVIMAS}{24}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.}REIKALAVIMŲ SPECIFIKAVIMAS}{25}
+\contentsline {subsection}{\numberline {2.1.}FUNKCINIAI REIKALAVIMAI}{24}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.}FUNKCINIAI REIKALAVIMAI}{25}
+\contentsline {subsubsection}{\numberline {2.1.1.}Internetinės svetainės langai}{24}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1.}Internetinės svetainės langai}{25}
+\contentsline {subsubsection}{\numberline {2.1.2.}Prisijungimas}{24}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.2.}Prisijungimas}{25}
+\contentsline {subsubsection}{\numberline {2.1.3.}Atsijungimas}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.3.}Atsijungimas}{26}
+\contentsline {subsubsection}{\numberline {2.1.4.}Paskyros valdymas}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.4.}Paskyros valdymas}{26}
+\contentsline {subsubsection}{\numberline {2.1.5.}Naujienos}{26}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.5.}Naujienos}{27}
+\contentsline {subsubsection}{\numberline {2.1.6.}Renginiai}{27}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.6.}Renginiai}{28}
+\contentsline {subsubsection}{\numberline {2.1.7.}D.U.K.}{28}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.7.}D.U.K.}{29}
+\contentsline {subsubsection}{\numberline {2.1.8.}Dėstytojų sąrašas}{29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.8.}Dėstytojų sąrašas}{30}
+\contentsline {subsubsection}{\numberline {2.1.9.}Dėstytojo puslapis}{29}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.9.}Dėstytojo puslapis}{30}
+\contentsline {subsubsection}{\numberline {2.1.10.}Žinutės}{30}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.10.}Žinutės}{31}
+\contentsline {subsubsection}{\numberline {2.1.11.}Konspektai}{32}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.11.}Konspektai}{33}
+\contentsline {subsection}{\numberline {2.2.}NEFUNKCINIAI REIKALAVIMAI}{33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.}NEFUNKCINIAI REIKALAVIMAI}{34}
+\contentsline {subsubsection}{\numberline {2.2.1.}Vidinių interfeisų reikalavimai}{33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1.}Vidinių interfeisų reikalavimai}{34}
+\contentsline {subsubsection}{\numberline {2.2.2.}Veikimo reikalavimai}{34}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2.}Veikimo reikalavimai}{35}
+\contentsline {subsubsection}{\numberline {2.2.3.}Diegimo reikalavimai}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.3.}Diegimo reikalavimai}{36}
+\contentsline {subsubsection}{\numberline {2.2.4.}Aptarnavimo ir priežiūros reikalavimai}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.4.}Aptarnavimo ir priežiūros reikalavimai}{36}
+\contentsline {subsubsection}{\numberline {2.2.5.}Tiražuojamumo reikalavimai}{35}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.5.}Tiražuojamumo reikalavimai}{36}
+\contentsline {subsubsection}{\numberline {2.2.6.}Apsaugos reikalavimai}{36}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.6.}Apsaugos reikalavimai}{37}
+\contentsline {subsubsection}{\numberline {2.2.7.}Juridiniai reikalavimai}{36}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.7.}Juridiniai reikalavimai}{37}
+\contentsline {subsection}{\numberline {2.3.}VARTOTOJO SĄSAJOS REIKALAVIMAI}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.}VARTOTOJO SĄSAJOS REIKALAVIMAI}{38}
+\contentsline {subsubsection}{\numberline {2.3.1.}Dalykinės srities metaforos reikalavimai}{37}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1.}Dalykinės srities metaforos reikalavimai}{38}
+\contentsline {subsubsection}{\numberline {2.3.2.}Užduočių formulavimo kalbos reikalavimai}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.2.}Užduočių formulavimo kalbos reikalavimai}{40}
+\contentsline {subsubsection}{\numberline {2.3.3.}Užduočių formulavimo protokolo reikalavimai}{39}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.3.}Užduočių formulavimo protokolo reikalavimai}{40}
+\contentsline {subsubsection}{\numberline {2.3.4.}Pranešimo formulavimo reikalavimai}{42}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.4.}Pranešimo formulavimo reikalavimai}{43}
+\contentsline {subsubsection}{\numberline {2.3.5.}Interfeiso darnos ir standartizavimo reikalavimai}{42}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.5.}Interfeiso darnos ir standartizavimo reikalavimai}{43}
+\contentsline {subsubsection}{\numberline {2.3.6.}Interfeiso individualizavimo reikalavimai}{42}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.6.}Interfeiso individualizavimo reikalavimai}{43}
+\contentsline {section}{\numberline {3.}KURIAMOS SISTEMOS ARCHITEKTŪRA}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.}KURIAMOS SISTEMOS ARCHITEKTŪRA}{44}
+\contentsline {subsection}{\numberline {3.1.}LOGINIS PJŪVIS}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.}LOGINIS PJŪVIS}{44}
+\contentsline {subsubsection}{\numberline {3.1.1.}Esybių klasių diagrama (nulinis lygis)}{43}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1.}Esybių klasių diagrama (nulinis lygis)}{44}
+\contentsline {subsubsection}{\numberline {3.1.2.}Klasių diagrama (pirmas lygis)}{44}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2.}Klasių diagrama (pirmas lygis)}{45}
+\contentsline {subsection}{\numberline {3.2.}UŽDUOČIŲ PJŪVIS}{45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.}UŽDUOČIŲ PJŪVIS}{46}
+\contentsline {subsubsection}{\numberline {3.2.1.}Sistemoje vykdomos užduotys}{45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1.}Sistemoje vykdomos užduotys}{46}
+\contentsline {subsubsection}{\numberline {3.2.2.}Užduočių vykdymo scenarijai}{45}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2.}Užduočių vykdymo scenarijai}{46}
+\contentsline {subsubsection}{\numberline {3.2.3.}Užduoties "Pridėti naujieną" scenarijus}{46}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3.}Užduoties "Pridėti naujieną" scenarijus}{47}
+\contentsline {subsubsection}{\numberline {3.2.4.}Užduoties "Ištrinti naujieną" scenarijus}{46}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.4.}Užduoties "Ištrinti naujieną" scenarijus}{47}
+\contentsline {subsubsection}{\numberline {3.2.5.}Užduoties "Redaguoti naujieną" scenarijus}{47}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.5.}Užduoties "Redaguoti naujieną" scenarijus}{48}
+\contentsline {subsubsection}{\numberline {3.2.6.}Užduoties "Peržiūrėti naujienas" scenarijus}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.6.}Užduoties "Peržiūrėti naujienas" scenarijus}{49}
+\contentsline {subsubsection}{\numberline {3.2.7.}Užduoties "Pridėti renginį" scenarijus}{48}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.7.}Užduoties "Pridėti renginį" scenarijus}{49}
+\contentsline {subsubsection}{\numberline {3.2.8.}Užduoties "Ištrinti renginį" scenarijus}{49}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.8.}Užduoties "Ištrinti renginį" scenarijus}{50}
+\contentsline {subsubsection}{\numberline {3.2.9.}Užduoties "Redaguoti renginį" scenarijus}{50}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.9.}Užduoties "Redaguoti renginį" scenarijus}{51}
+\contentsline {subsubsection}{\numberline {3.2.10.}Užduoties "Peržiūrėti renginius" scenarijus}{50}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.10.}Užduoties "Peržiūrėti renginius" scenarijus}{51}
+\contentsline {subsubsection}{\numberline {3.2.11.}Užduoties "Pridėti D.U.K." scenarijus}{51}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.11.}Užduoties "Pridėti D.U.K." scenarijus}{52}
+\contentsline {subsubsection}{\numberline {3.2.12.}Užduoties "Peržiūrėti D.U.K." scenarijus}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.12.}Užduoties "Peržiūrėti D.U.K." scenarijus}{53}
+\contentsline {subsubsection}{\numberline {3.2.13.}Užduoties "Redaguoti pasirinktą klausimą" scenarijus}{52}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.13.}Užduoties "Redaguoti pasirinktą klausimą" scenarijus}{53}
+\contentsline {subsubsection}{\numberline {3.2.14.}Užduoties "Peržiūrėti pasirinkto dėstytojo teikiamą informaciją" scenarijus}{53}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.14.}Užduoties "Peržiūrėti pasirinkto dėstytojo teikiamą informaciją" scenarijus}{54}
+\contentsline {subsubsection}{\numberline {3.2.15.}Užduoties "Peržiūrėti pasirinktą žinutę" scenarijus}{54}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.15.}Užduoties "Peržiūrėti pasirinktą žinutę" scenarijus}{55}
+\contentsline {subsubsection}{\numberline {3.2.16.}Užduoties "Siųsti žinutę" scenarijus}{55}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.16.}Užduoties "Siųsti žinutę" scenarijus}{56}
+\contentsline {subsubsection}{\numberline {3.2.17.}Užduoties "Redaguoti asmeninį dėstytojo puslapį" scenarijus}{56}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.17.}Užduoties "Redaguoti asmeninį dėstytojo puslapį" scenarijus}{57}
+\contentsline {subsubsection}{\numberline {3.2.18.}Užduoties "Įkelti konspektą" scenarijus}{57}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.18.}Užduoties "Įkelti konspektą" scenarijus}{58}
+\contentsline {subsubsection}{\numberline {3.2.19.}Užduoties "Peržiūrėti konspektus" scenarijus}{58}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.19.}Užduoties "Peržiūrėti konspektus" scenarijus}{59}
+\contentsline {subsection}{\numberline {3.3.}KŪRIMO PJŪVIS}{59}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.}KŪRIMO PJŪVIS}{60}
+\contentsline {subsubsection}{\numberline {3.3.1.}Komponentų diagramos nulinis lygmuo}{59}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1.}Komponentų diagramos nulinis lygmuo}{60}
+\contentsline {subsubsection}{\numberline {3.3.2.}Komponentų diagramos pirmasis lygmuo}{60}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2.}Komponentų diagramos pirmasis lygmuo}{61}
+\contentsline {subsubsection}{\numberline {3.3.3.}Komponentų diagramos antrasis lygmuo}{61}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3.}Komponentų diagramos antrasis lygmuo}{62}
+\contentsline {subsection}{\numberline {3.4.}FIZINIS PJŪVIS}{62}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.}FIZINIS PJŪVIS}{63}
+\contentsline {subsubsection}{\numberline {3.4.1.}Dislokavimo diagrama nr. 1 (komponentų ir artefaktų ryšių diagrama)}{62}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1.}Dislokavimo diagrama nr. 1 (komponentų ir artefaktų ryšių diagrama)}{63}
+\contentsline {subsubsection}{\numberline {3.4.2.}Dislokavimo diagrama nr. 2 (mazgų ir artefaktų ryšių diagrama)}{63}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.2.}Dislokavimo diagrama nr. 2 (mazgų ir artefaktų ryšių diagrama)}{64}
+\contentsline {subsubsection}{\numberline {3.4.3.}Dislokavimo diagrama nr. 3 (mazgų ir artefaktų egzempliorių diagrama)}{64}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.3.}Dislokavimo diagrama nr. 3 (mazgų ir artefaktų egzempliorių diagrama)}{65}
+\contentsline {subsection}{\numberline {3.5.}PROCESO PJŪVIS}{65}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.}PROCESO PJŪVIS}{66}
+\contentsline {subsubsection}{\numberline {3.5.1.}Proceso sekų diagramos}{65}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.1.}Proceso sekų diagramos}{66}
+\contentsline {subsubsection}{\numberline {3.5.2.}Veiklos diagramos}{66}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.5.2.}Veiklos diagramos}{67}
+\contentsline {section}{SĄVOKOS}{69}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{REZULTATAI}{70}

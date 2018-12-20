@@ -212,13 +212,6 @@ Rinkoje jau egzistuojančios Vilniaus universiteto platformos turi trūkumų (da
 Toliau pateikiama keliais aspektais atlikta vidinė verslo proceso analizė, kuria siekiama
 nustatyti nagrinėjamo verslo stiprybes ir silpnybes, kylančias iš verslo proceso.
 
-\subsubsection{Sąvokos}
-Šiame skyriuje pateikiami specifiniai mūsų projekte naudotų žodžių paaiškinimai. \\
-\textbf{Sistema} – fakulteto vidinis socialinis tinklas, dokumente vadinamas „SocialVU“. \\
-\textbf{Studentas} – vartotojas, kuris turim ribotas galimybes turinio valdymo atžvilgiu.\\
-\textbf{Dėstytojas} – vartotojas, kuris turi galimybę redaguoti visą socialinio tinklo turinį.\\
-\textbf{Administratorius} – vartotojas, kuris turi galimybę redaguoti visą socialinio tinklo turinį, išskyrus dėstytojus.
-
 \subsubsection{Dalykinės srities statinė struktūra}
  Toliau pateikiama dalykinės srities statinės struktūros UML diagrama. Joje matomos pagrindinės esybės bei jų tarpusavio sąveika. Klientai yra trijų tipų: studentai, dėstytojai ir administratoriai (dėstytojai bei administratoriai skiriasi turinio redagavimo teisėmis). Studentams, administratoriams ir dėstytojams registruotis nereikia, nes visa vartotojų duomenų bazė yra imama iš bendros VU vartotojų duomenų bazės. Vartotojui tereikia autentifikuoti save - tokiu būdu, priklausomai nuo užimamų pareigų, jam bus suteiktos teisės prie numatyto turinio. Studentai gali tik skaityti tokius puslapius kaip "Dėstytojai", "Naujienos", "Renginiai", "D.U.K", "Konspektai". Tuo tarpu dėstytojai skiltyje "Naujienos" gali parašyti naujieną. Be to, jiems suteikta prieiga prie jų profilio, kur turi teisę redaguoti savo asmeninį puslapį, siųsti bei gauti žinutes, pridėti organizuojamą renginį. Administratoriumi gali būti fakulteto paskirtas žmogus, atsakingas už tikslingo turinio formavimą vidiniame socialiniame tinkle arba VU Studentų atstovybės narys, kuris turi teisę redaguoti visą turinį. Tačiau joks administratorius negali redaguoti dėstytojo sukurto turinio.\\
 
@@ -2176,6 +2169,15 @@ Užduočių vykdymo scenarijai, atvaizduoja agentų, šiuo atveju studento 
 	\end{figure}
 	\ref{fig:postNews} pav. diagramoje matomas, naujienos paskelbimo procesas. Procesas prasideda naudotojo prisijungimu. Neteisingai suvedus prisijungimo duomenis naudotojas vėl nukreipiamas į prisjungimą, kitu atveju jis nukreipiamas į pagridinį puslapį bei pasirenka naujienos paskelbimo nuorodą. Naudotojas parašo naujieną bei ją paskelbia. Jei skelbiant naujieną įvyksta klaida jis nukreipiamas į naujienos rašymo formą, kitu atveju naujiena paskelbiama.
 	\newpage
+	
+	\sectionnonum{SĄVOKOS}
+	Šiame skyriuje pateikiami specifiniai mūsų projekte naudotų žodžių paaiškinimai. \\
+	\textbf{Sistema} – fakulteto vidinis socialinis tinklas, dokumente vadinamas „SocialVU“. \\
+	\textbf{Studentas} – vartotojas, kuris turim ribotas galimybes turinio valdymo atžvilgiu.\\
+	\textbf{Dėstytojas} – vartotojas, kuris turi galimybę redaguoti visą socialinio tinklo turinį.\\
+	\textbf{Administratorius} – vartotojas, kuris turi galimybę redaguoti visą socialinio tinklo turinį, išskyrus dėstytojus.
+	\newpage
+	
 \sectionnonum{REZULTATAI}
 Dokumente pateiktas verslo proceso aprašas, kuriamai sistemai atlikta išorinė bei vidinė verslo proceso analizė. Iškelti tikslai, jog sistema naudotųsi bent pusė Vilniaus universiteto studentų. Pateiktos UML diagramos dalykinei sričiai, užduočių veiklai, klasėms.
 

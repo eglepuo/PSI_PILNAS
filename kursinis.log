@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.10.1)  20 DEC 2018 17:16
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.10.1)  20 DEC 2018 19:16
 entering extended mode
 **./kursinis.tex
 (kursinis.tex
@@ -1493,86 +1493,85 @@ Overfull \hbox (21.54716pt too wide) in paragraph at lines 195--204
  []
 
 [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
 File: img/dalykine.png Graphic file (type bmp)
 <img/dalykine.png>
-[10]
 File: img/DVS.png Graphic file (type bmp)
 <img/DVS.png>
- [11]
-Underfull \hbox (badness 10000) in paragraph at lines 239--289
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 232--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--289
+Underfull \hbox (badness 10000) in paragraph at lines 232--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--289
+Underfull \hbox (badness 10000) in paragraph at lines 232--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--289
+Underfull \hbox (badness 10000) in paragraph at lines 232--282
 
  []
 
-[12]
+[11]
 File: img/bendra-uml.png Graphic file (type bmp)
 <img/bendra-uml.png>
- [13]
+ [12]
 File: img/studentas.png Graphic file (type bmp)
 <img/studentas.png>
- [14]
+ [13]
 File: img/destytojas.png Graphic file (type bmp)
 <img/destytojas.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--313
+Underfull \hbox (badness 10000) in paragraph at lines 299--306
 
  []
 
 File: img/administratorius.png Graphic file (type bmp)
 <img/administratorius.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--321
+Underfull \hbox (badness 10000) in paragraph at lines 307--314
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 330--350
+Underfull \hbox (badness 10000) in paragraph at lines 323--343
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--350
+Underfull \hbox (badness 10000) in paragraph at lines 323--343
 
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 330--350
+Underfull \hbox (badness 1082) in paragraph at lines 323--343
 \TU/texgyretermes(0)/bx/n/12 Problema: \TU/texgyretermes(0)/m/n/12 Universiteto
  bendruomenė nesinaudoja mūsų sistema t.y. dėstytojai toliau pa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--350
+Underfull \hbox (badness 10000) in paragraph at lines 323--343
 
  []
 
-[17] [18]
+[16] [17]
 File: img/uzdNaujiena.png Graphic file (type bmp)
 <img/uzdNaujiena.png>
- [19]
+ [18]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -1581,17 +1580,17 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/uzdSiustiZinute.png Graphic file (type bmp)
 <img/uzdSiustiZinute.png>
- [20]
+ [19]
 File: img/uzdKonsp.png Graphic file (type bmp)
 <img/uzdKonsp.png>
- [21]
+ [20]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/socpslSistema.png Graphic file (type bmp)
 <img/socpslSistema.png>
- [22]
+ [21]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -1614,124 +1613,124 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
- [23] [24]
-Overfull \hbox (6.79216pt too wide) in paragraph at lines 505--540
+ [22] [23]
+Overfull \hbox (6.79216pt too wide) in paragraph at lines 498--533
 [][] 
  []
 
 File: img/login.jpg Graphic file (type bmp)
 <img/login.jpg>
-[25] [26]
+[24] [25]
 File: img/deleteNew.png Graphic file (type bmp)
 <img/deleteNew.png>
- [27]
+ [26]
 File: img/addNewEvent.png Graphic file (type bmp)
 <img/addNewEvent.png>
 
-Underfull \hbox (badness 5711) in paragraph at lines 781--782
+Underfull \hbox (badness 5711) in paragraph at lines 774--775
 []|\TU/texgyretermes(0)/m/n/12 Dažniausiai užduodami klausimai turi būti matomi
  puslapyje
  []
 
-[28]
+[27]
 File: img/addDUK.png Graphic file (type bmp)
 <img/addDUK.png>
- [29]
+ [28]
 File: img/editPage.png Graphic file (type bmp)
 <img/editPage.png>
- [30]
+ [29]
 File: img/sendMes.png Graphic file (type bmp)
 <img/sendMes.png>
- [31] [32]
+ [30] [31]
 File: img/summary.jpg Graphic file (type bmp)
 <img/summary.jpg>
- [33]
-Overfull \hbox (10.12816pt too wide) in paragraph at lines 1093--1198
+ [32]
+Overfull \hbox (10.12816pt too wide) in paragraph at lines 1086--1191
 [][] 
  []
 
 
-Overfull \hbox (16.12816pt too wide) in paragraph at lines 1204--1294
+Overfull \hbox (16.12816pt too wide) in paragraph at lines 1197--1287
+[][] 
+ []
+
+[33]
+Overfull \hbox (16.12816pt too wide) in paragraph at lines 1291--1370
 [][] 
  []
 
 [34]
-Overfull \hbox (16.12816pt too wide) in paragraph at lines 1298--1377
+Overfull \hbox (16.12816pt too wide) in paragraph at lines 1374--1413
+[][] 
+ []
+
+
+Overfull \hbox (7.50093pt too wide) in paragraph at lines 1417--1435
+[][] 
+ []
+
+
+Overfull \hbox (7.50093pt too wide) in paragraph at lines 1439--1469
 [][] 
  []
 
 [35]
-Overfull \hbox (16.12816pt too wide) in paragraph at lines 1381--1420
-[][] 
- []
-
-
-Overfull \hbox (7.50093pt too wide) in paragraph at lines 1424--1442
-[][] 
- []
-
-
-Overfull \hbox (7.50093pt too wide) in paragraph at lines 1446--1476
+Overfull \hbox (7.50093pt too wide) in paragraph at lines 1473--1497
 [][] 
  []
 
 [36]
-Overfull \hbox (7.50093pt too wide) in paragraph at lines 1480--1504
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+
+Overfull \hbox (23.90492pt too wide) in paragraph at lines 1506--1533
 [][] 
+ []
+
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+
+Overfull \hbox (9.14717pt too wide) in alignment at lines 1536--1557
+ [] [] [] 
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1557
+ []
+
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+
+Overfull \hbox (9.14717pt too wide) in alignment at lines 1557--1577
+ [] [] [] 
+ []
+
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+
+Overfull \hbox (9.14717pt too wide) in alignment at lines 1577--1592
+ [] [] [] 
  []
 
 [37]
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-
-Overfull \hbox (23.90492pt too wide) in paragraph at lines 1513--1540
-[][] 
- []
-
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-
-Overfull \hbox (9.14717pt too wide) in alignment at lines 1543--1564
- [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1564
- []
-
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-
-Overfull \hbox (9.14717pt too wide) in alignment at lines 1564--1584
- [] [] [] 
- []
-
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-
-Overfull \hbox (9.14717pt too wide) in alignment at lines 1584--1599
- [] [] [] 
- []
-
-[38]
 Missing character: There is no ̨ in font [texgyretermes-bold.otf]/OT:script=lat
 n;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -1774,7 +1773,7 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
- [39]
+ [38]
 Missing character: There is no ̨ in font [texgyretermes-bold.otf]/OT:script=lat
 n;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -1852,12 +1851,12 @@ latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 
-Overfull \hbox (27.36612pt too wide) in alignment at lines 1634--1654
+Overfull \hbox (27.36612pt too wide) in alignment at lines 1627--1647
  [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1654
+Underfull \vbox (badness 10000) detected at line 1647
  []
 
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -1871,7 +1870,25 @@ latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 
-Overfull \hbox (27.36612pt too wide) in alignment at lines 1654--1674
+Overfull \hbox (27.36612pt too wide) in alignment at lines 1647--1667
+ [] [] [] 
+ []
+
+[39]
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+
+Overfull \hbox (27.36612pt too wide) in alignment at lines 1667--1685
  [] [] [] 
  []
 
@@ -1882,50 +1899,32 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
 
-Overfull \hbox (27.36612pt too wide) in alignment at lines 1674--1692
- [] [] [] 
+Overfull \hbox (9.14717pt too wide) in paragraph at lines 1690--1697
+[][] 
  []
 
 [41]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
+
+Overfull \hbox (9.14717pt too wide) in paragraph at lines 1702--1708
+[][] 
+ []
+
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 
-Overfull \hbox (9.14717pt too wide) in paragraph at lines 1697--1704
+Overfull \hbox (23.37355pt too wide) in paragraph at lines 1713--1719
 [][] 
  []
 
 [42]
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-
-Overfull \hbox (9.14717pt too wide) in paragraph at lines 1709--1715
-[][] 
- []
-
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-
-Overfull \hbox (23.37355pt too wide) in paragraph at lines 1720--1726
-[][] 
- []
-
-[43]
 File: img/dalykine.png Graphic file (type bmp)
 <img/dalykine.png>
 File: img/pagrindine.png Graphic file (type bmp)
 <img/pagrindine.png>
- [44] [45]
+ [43] [44]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -1946,8 +1945,8 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/addNew.png Graphic file (type bmp)
 <img/addNew.png>
- [46]
-Underfull \hbox (badness 10000) in paragraph at lines 1772--1774
+ [45]
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1767
 
  []
 
@@ -2000,11 +1999,11 @@ latn;language=DFLT;mapping=tex-text;!
 File: img/deleteNew.png Graphic file (type bmp)
 <img/deleteNew.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1790--1792
+Underfull \hbox (badness 10000) in paragraph at lines 1783--1785
 
  []
 
-[47]
+[46]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -2036,7 +2035,7 @@ latn;language=DFLT;mapping=tex-text;!
 File: img/editNew.png Graphic file (type bmp)
 <img/editNew.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1807--1809
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1802
 
  []
 
@@ -2064,8 +2063,8 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/viewNew.png Graphic file (type bmp)
 <img/viewNew.png>
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 1828--1830
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1821--1823
 
  []
 
@@ -2086,7 +2085,7 @@ latn;language=DFLT;mapping=tex-text;!
 File: img/addNewEvent.png Graphic file (type bmp)
 <img/addNewEvent.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1841--1843
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1836
 
  []
 
@@ -2126,11 +2125,11 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
-[49]
+[48]
 File: img/deleteEvent.png Graphic file (type bmp)
 <img/deleteEvent.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1859--1861
+Underfull \hbox (badness 10000) in paragraph at lines 1852--1854
 
  []
 
@@ -2162,8 +2161,8 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/editEvent.png Graphic file (type bmp)
 <img/editEvent.png>
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 1876--1878
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1869--1871
 
  []
 
@@ -2190,11 +2189,11 @@ latn;language=DFLT;mapping=tex-text;!
 File: img/viewEvent.png Graphic file (type bmp)
 <img/viewEvent.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1897--1899
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1892
 
  []
 
-[51]
+[50]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -2210,7 +2209,7 @@ latn;language=DFLT;mapping=tex-text;!
 File: img/addDUK.png Graphic file (type bmp)
 <img/addDUK.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1910--1912
+Underfull \hbox (badness 10000) in paragraph at lines 1903--1905
 
  []
 
@@ -2252,8 +2251,8 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/viewDUK.png Graphic file (type bmp)
 <img/viewDUK.png>
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 1928--1930
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 1921--1923
 
  []
 
@@ -2272,7 +2271,7 @@ latn;language=DFLT;mapping=tex-text;!
 File: img/editDUK.png Graphic file (type bmp)
 <img/editDUK.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1941--1943
+Underfull \hbox (badness 10000) in paragraph at lines 1934--1936
 
  []
 
@@ -2280,7 +2279,7 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
-[53]
+[52]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -2300,7 +2299,7 @@ latn;language=DFLT;mapping=tex-text;!
 File: img/viewLecturer.png Graphic file (type bmp)
 <img/viewLecturer.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1964
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1957
 
  []
 
@@ -2324,8 +2323,8 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/viewMessage.png Graphic file (type bmp)
 <img/viewMessage.png>
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 1982--1984
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 1975--1977
 
  []
 
@@ -2337,8 +2336,8 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/sendMes.png Graphic file (type bmp)
 <img/sendMes.png>
-[55]
-Underfull \hbox (badness 10000) in paragraph at lines 2003--2005
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 1996--1998
 
  []
 
@@ -2356,15 +2355,56 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 File: img/editPage.png Graphic file (type bmp)
 <img/editPage.png>
-[56]
-Underfull \hbox (badness 10000) in paragraph at lines 2021--2023
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 2014--2016
 
  []
 
+File: img/addKons.png Graphic file (type bmp)
+<img/addKons.png>
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 2033--2035
+
+ []
+
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
 File: img/addKons.png Graphic file (type bmp)
 <img/addKons.png>
 [57]
-Underfull \hbox (badness 10000) in paragraph at lines 2040--2042
+Underfull \hbox (badness 10000) in paragraph at lines 2051--2053
 
  []
 
@@ -2382,56 +2422,15 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-File: img/addKons.png Graphic file (type bmp)
-<img/addKons.png>
 [58]
-Underfull \hbox (badness 10000) in paragraph at lines 2058--2060
-
- []
-
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-[59]
 File: img/0lygmuo.png Graphic file (type bmp)
 <img/0lygmuo.png>
 File: img/1lygmuo.png Graphic file (type bmp)
 <img/1lygmuo.png>
- [60]
+ [59]
 File: img/2lygmuo.png Graphic file (type bmp)
 <img/2lygmuo.png>
- [61] [62]
+ [60] [61]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -2488,7 +2487,7 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
- [63]
+ [62]
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
@@ -2515,37 +2514,37 @@ Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
 Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
 latn;language=DFLT;mapping=tex-text;!
+ [63]
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
+Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
+latn;language=DFLT;mapping=tex-text;!
  [64]
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
-Missing character: There is no ̨ in font [texgyretermes-regular.otf]/OT:script=
-latn;language=DFLT;mapping=tex-text;!
- [65]
 File: img/login.jpg Graphic file (type bmp)
 <img/login.jpg>
 File: img/summary.jpg Graphic file (type bmp)
 <img/summary.jpg>
- [66]
+ [65]
 File: img/sendMessage.jpg Graphic file (type bmp)
 <img/sendMessage.jpg>
- [67]
+ [66]
 File: img/postNews.jpg Graphic file (type bmp)
 <img/postNews.jpg>
- [68] [69] [70] (kursinis.aux)
+ [67] [68] [69] [70] (kursinis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
